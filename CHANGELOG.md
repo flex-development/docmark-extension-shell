@@ -1,3 +1,9 @@
+## [1.0.0-alpha.7](https://github.com/flex-development/docmark-extension-shell/compare/1.0.0-alpha.6...1.0.0-alpha.7) (2026-09-15)
+
+### :package: Build
+
+- [[`f209851`](https://github.com/flex-development/docmark-extension-shell/commit/f2098519e9b3e3d2093920cf39fac2e4ba773f88)] **deps:** bump the docmark group with 1 update
+
 ## [1.0.0-alpha.6](https://github.com/flex-development/docmark-extension-shell/compare/1.0.0-alpha.5...1.0.0-alpha.6) (2026-09-15)
 
 ### :package: Build
@@ -68,6 +74,7 @@
 ### :mechanical_arm: Refactors
 
 - [[`a1c0904`](https://github.com/flex-development/docmark-extension-shell/commit/a1c0904b86d3147deac4cca841d0205c3edb30f9)] rename project
+
 
 
 
