@@ -1,3 +1,18 @@
+## [1.0.0-alpha.5](https://github.com/flex-development/docmark-extension-shell/compare/1.0.0-alpha.4...1.0.0-alpha.5) (2026-09-15)
+
+### :package: Build
+
+- [[`5affa08`](https://github.com/flex-development/docmark-extension-shell/commit/5affa0800e8bd0dc717d7a99297a754cb375e339)] **deps-dev:** Bump happy-dom from 20.14.0 to 20.14.3 ([#23](https://github.com/flex-development/docmark-extension-shell/issues/23))
+- [[`2ea8986`](https://github.com/flex-development/docmark-extension-shell/commit/2ea89862cb473557ad02ad66b92bf541d14fcdfa)] **deps-dev:** Bump happy-dom from 20.14.3 to 20.14.5 ([#26](https://github.com/flex-development/docmark-extension-shell/issues/26))
+- [[`6b34064`](https://github.com/flex-development/docmark-extension-shell/commit/6b3406451ea0ce29f7cdf482b121237585a7edc7)] **deps-dev:** Bump rollup from 4.63.1 to 4.63.2 ([#25](https://github.com/flex-development/docmark-extension-shell/issues/25))
+- [[`d569c15`](https://github.com/flex-development/docmark-extension-shell/commit/d569c1525821d01f372ebf11f637d30e9fd4a42e)] **deps-dev:** Bump vite from 8.2.2 to 8.3.0 ([#24](https://github.com/flex-development/docmark-extension-shell/issues/24))
+- [[`ceda1da`](https://github.com/flex-development/docmark-extension-shell/commit/ceda1da7c1d58ea4ffac7e79970a76fd968a17c3)] **deps:** add `@flex-development/docmark-factory-line`
+
+### :house_with_garden: Housekeeping
+
+- [[`4cccc3e`](https://github.com/flex-development/docmark-extension-shell/commit/4cccc3e467d9b906b0e4d770ca032fe8cbfec97f)] **github:** update repository topics
+- [[`527c93e`](https://github.com/flex-development/docmark-extension-shell/commit/527c93ea01b2ed6618a88fda2eec162c9a03a849)] **pkg:** update `keywords`
+
 ## [1.0.0-alpha.4](https://github.com/flex-development/docmark-extension-shell/compare/1.0.0-alpha.3...1.0.0-alpha.4) (2026-09-11)
 
 ### :package: Build
@@ -47,6 +62,7 @@
 ### :mechanical_arm: Refactors
 
 - [[`a1c0904`](https://github.com/flex-development/docmark-extension-shell/commit/a1c0904b86d3147deac4cca841d0205c3edb30f9)] rename project
+
 
 
 
