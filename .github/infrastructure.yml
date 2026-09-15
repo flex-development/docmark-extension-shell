@@ -198,6 +198,7 @@ repository:
     - documentation
     - hash-comment
     - pound-comment
+    - powershell
     - sh
     - shell
     - zsh
