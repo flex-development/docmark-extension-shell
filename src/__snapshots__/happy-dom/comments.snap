@@ -15,11 +15,11 @@ exports[`unit:comments > should be extension 1`] = `
       },
       {
         "continuation": {
-          "tokenize": [Function tokenizeShellCommentContinuation],
+          "tokenize": [Function tokenizeLineCommentContinuation],
         },
-        "exit": [Function exitShellComment],
+        "exit": [Function exitLineComment],
         "name": "comment:shell",
-        "tokenize": [Function tokenizeShellComment],
+        "tokenize": [Function tokenizeLineComment],
       },
     ],
   },
