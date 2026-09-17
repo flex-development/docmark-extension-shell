@@ -9,7 +9,7 @@ import type { NormalizedExtension } from '@flex-development/docmark-util-types'
 import comment from './comment.mts'
 
 /**
- * The shell comment syntax extension.
+ * The shell comments syntax extension.
  *
  * @see {@linkcode NormalizedExtension}
  *
