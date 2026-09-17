@@ -1,3 +1,10 @@
+## [1.0.0-alpha.8](https://github.com/flex-development/docmark-extension-shell/compare/1.0.0-alpha.7...1.0.0-alpha.8) (2026-09-17)
+
+### :package: Build
+
+- [[`7ee536b`](https://github.com/flex-development/docmark-extension-shell/commit/7ee536b9eb71cd3adf576404096f370df6e0f38d)] **deps-dev:** Bump cspell from 10.3.0 to 10.3.1 ([#33](https://github.com/flex-development/docmark-extension-shell/issues/33))
+- [[`aca42ff`](https://github.com/flex-development/docmark-extension-shell/commit/aca42ff9c5517b22386f31c5f50a8defe3ab0046)] **deps:** bump the docmark group with 2 updates
+
 ## [1.0.0-alpha.7](https://github.com/flex-development/docmark-extension-shell/compare/1.0.0-alpha.6...1.0.0-alpha.7) (2026-09-15)
 
 ### :package: Build
@@ -74,6 +81,7 @@
 ### :mechanical_arm: Refactors
 
 - [[`a1c0904`](https://github.com/flex-development/docmark-extension-shell/commit/a1c0904b86d3147deac4cca841d0205c3edb30f9)] rename project
+
 
 
 
