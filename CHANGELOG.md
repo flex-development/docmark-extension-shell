@@ -1,3 +1,22 @@
+## [1.0.0-alpha.9](https://github.com/flex-development/docmark-extension-shell/compare/1.0.0-alpha.8...1.0.0-alpha.9) (2026-09-17)
+
+### ⚠ BREAKING CHANGES
+
+- remove construct `name`
+
+### :package: Build
+
+- [[`79d6a05`](https://github.com/flex-development/docmark-extension-shell/commit/79d6a05848d49e6f76084d67dcf23fd7261e1741)] [fix] externalize `pkg.dependencies`
+- [[`7c62678`](https://github.com/flex-development/docmark-extension-shell/commit/7c62678de76804f1a57051a641cb1c8ff6b5faf3)] **deps:** bump the docmark group with 4 updates
+
+### :robot: Continuous Integration
+
+- [[`9d7060f`](https://github.com/flex-development/docmark-extension-shell/commit/9d7060f61ee9d3c31152d96c717bb2ce16ad943a)] **workflows:** [`ci`] continue on bun canary setup failure
+
+### :mechanical_arm: Refactors
+
+- [[`8c356fe`](https://github.com/flex-development/docmark-extension-shell/commit/8c356fe588c6c3a166c4e6cfcc7790f302b653ec)] remove construct `name`
+
 ## [1.0.0-alpha.8](https://github.com/flex-development/docmark-extension-shell/compare/1.0.0-alpha.7...1.0.0-alpha.8) (2026-09-17)
 
 ### :package: Build
@@ -81,6 +100,7 @@
 ### :mechanical_arm: Refactors
 
 - [[`a1c0904`](https://github.com/flex-development/docmark-extension-shell/commit/a1c0904b86d3147deac4cca841d0205c3edb30f9)] rename project
+
 
 
 
