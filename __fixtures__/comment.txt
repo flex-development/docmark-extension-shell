@@ -1,0 +1,9 @@
+#!/bin/sh
+
+set -e
+
+# Local Release Workflow
+#
+# References:
+#
+# - https://git-scm.com/docs/git-commit
