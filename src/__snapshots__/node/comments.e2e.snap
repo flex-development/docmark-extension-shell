@@ -13,7 +13,6 @@ exports[`e2e:comments > should parse shell comments ("multiline/01.txt",undefine
         "offset": 11,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -621,7 +620,6 @@ exports[`e2e:comments > should parse shell comments ("multiline/01.txt",undefine
         "offset": 11,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -688,7 +686,6 @@ exports[`e2e:comments > should parse shell comments ("no-eol/01.txt",undefined) 
         "offset": 35,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -1040,7 +1037,6 @@ exports[`e2e:comments > should parse shell comments ("no-eol/01.txt",undefined) 
         "offset": 35,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -1107,7 +1103,6 @@ exports[`e2e:comments > should parse shell comments ("no-eol/02.txt",undefined) 
         "offset": 20,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -1417,7 +1412,6 @@ exports[`e2e:comments > should parse shell comments ("no-eol/02.txt",undefined) 
         "offset": 20,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -1484,7 +1478,6 @@ exports[`e2e:comments > should parse shell comments ("opener-only/01.txt",undefi
         "offset": 1,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -1588,7 +1581,6 @@ exports[`e2e:comments > should parse shell comments ("opener-only/01.txt",undefi
         "offset": 1,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -1655,7 +1647,6 @@ exports[`e2e:comments > should parse shell comments ("opener-only/02.txt",undefi
         "offset": 2,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -1803,7 +1794,6 @@ exports[`e2e:comments > should parse shell comments ("opener-only/02.txt",undefi
         "offset": 2,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -1870,7 +1860,6 @@ exports[`e2e:comments > should parse shell comments ("opener-only/03.txt",undefi
         "offset": 2,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -2016,7 +2005,6 @@ exports[`e2e:comments > should parse shell comments ("opener-only/03.txt",undefi
         "offset": 2,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -2083,7 +2071,6 @@ exports[`e2e:comments > should parse shell comments ("opener-only/04.txt",undefi
         "offset": 3,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -2273,7 +2260,6 @@ exports[`e2e:comments > should parse shell comments ("opener-only/04.txt",undefi
         "offset": 3,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -2340,7 +2326,6 @@ exports[`e2e:comments > should parse shell comments ("source/01.txt",undefined) 
         "offset": 10,
       },
       "kind": "hashbang",
-      "lang": undefined,
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -2572,7 +2557,6 @@ exports[`e2e:comments > should parse shell comments ("source/01.txt",undefined) 
         "offset": 10,
       },
       "kind": "hashbang",
-      "lang": undefined,
       "start": {
         "_bufferIndex": 0,
         "_index": 0,
@@ -2594,7 +2578,6 @@ exports[`e2e:comments > should parse shell comments ("source/01.txt",undefined) 
         "offset": 45,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 2,
@@ -2948,7 +2931,6 @@ exports[`e2e:comments > should parse shell comments ("source/01.txt",undefined) 
         "offset": 45,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 2,
@@ -2970,7 +2952,6 @@ exports[`e2e:comments > should parse shell comments ("source/01.txt",undefined) 
         "offset": 137,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 8,
@@ -4364,7 +4345,6 @@ exports[`e2e:comments > should parse shell comments ("source/01.txt",undefined) 
         "offset": 137,
       },
       "kind": "line",
-      "lang": "shell",
       "start": {
         "_bufferIndex": 0,
         "_index": 8,
