@@ -1,3 +1,27 @@
+## [1.0.0-alpha.11](https://github.com/flex-development/docmark-extension-shell/compare/1.0.0-alpha.10...1.0.0-alpha.11) (2026-09-20)
+
+### :package: Build
+
+- [[`6dc3dc8`](https://github.com/flex-development/docmark-extension-shell/commit/6dc3dc8d8abdeff223240bcca81de5dd527ffb85)] **deps-dev:** Bump cspell from 10.3.1 to 10.3.2 ([#43](https://github.com/flex-development/docmark-extension-shell/issues/43))
+- [[`1386829`](https://github.com/flex-development/docmark-extension-shell/commit/138682942d76779b8505949b93a060843e1caa10)] **deps-dev:** Bump the vitest group with 3 updates ([#42](https://github.com/flex-development/docmark-extension-shell/issues/42))
+- [[`8b8f1e0`](https://github.com/flex-development/docmark-extension-shell/commit/8b8f1e097636334730f951bd7bacc596e73011d3)] **deps:** bump the docmark group with 3 updates
+
+### :robot: Continuous Integration
+
+- [[`d99a705`](https://github.com/flex-development/docmark-extension-shell/commit/d99a70529888c1ee3cecb6c0be6abecb4c046c47)] **deps:** Bump codecov/codecov-action from 7.0.0 to 7.1.0 ([#36](https://github.com/flex-development/docmark-extension-shell/issues/36))
+
+### :house_with_garden: Housekeeping
+
+- [[`cfd7133`](https://github.com/flex-development/docmark-extension-shell/commit/cfd71335988e37380e0923f6be80e6a50280a73e)] **github:** add commit scopes `construct` and `extension`
+
+### :mechanical_arm: Refactors
+
+- [[`c39f41a`](https://github.com/flex-development/docmark-extension-shell/commit/c39f41a3821b967265aa0d05cc7d752e81f3f45c)] **extension:** use `constants.contentTypeSource`
+
+### :white_check_mark: Testing
+
+- [[`eed3ee7`](https://github.com/flex-development/docmark-extension-shell/commit/eed3ee7b9f7a61f880a67df810cfa18746316a21)] improve testing boundary
+
 ## [1.0.0-alpha.10](https://github.com/flex-development/docmark-extension-shell/compare/1.0.0-alpha.9...1.0.0-alpha.10) (2026-09-18)
 
 ### :package: Build
@@ -107,6 +131,7 @@
 ### :mechanical_arm: Refactors
 
 - [[`a1c0904`](https://github.com/flex-development/docmark-extension-shell/commit/a1c0904b86d3147deac4cca841d0205c3edb30f9)] rename project
+
 
 
 
