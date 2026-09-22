@@ -40,7 +40,8 @@ exports[`integration:comments > should parse shell comments 1`] = `
         "line": 1,
         "offset": 0,
       },
-      "type": "commentLinePrefix",
+      "type": "commentOpener",
+      "value": "#!",
     },
   ],
   [
@@ -144,7 +145,8 @@ exports[`integration:comments > should parse shell comments 1`] = `
         "line": 1,
         "offset": 0,
       },
-      "type": "commentLinePrefix",
+      "type": "commentOpener",
+      "value": "#!",
     },
   ],
   [
