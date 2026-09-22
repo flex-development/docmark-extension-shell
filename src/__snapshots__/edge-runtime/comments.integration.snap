@@ -279,11 +279,11 @@ exports[`integration:comments > should parse shell comments 1`] = `
     "enter",
     {
       "end": {
-        "_bufferIndex": 2,
+        "_bufferIndex": 1,
         "_index": 6,
-        "column": 3,
+        "column": 2,
         "line": 5,
-        "offset": 21,
+        "offset": 20,
       },
       "start": {
         "_bufferIndex": 0,
@@ -292,7 +292,8 @@ exports[`integration:comments > should parse shell comments 1`] = `
         "line": 5,
         "offset": 19,
       },
-      "type": "commentLinePrefix",
+      "type": "commentOpener",
+      "value": "#",
     },
   ],
   [
@@ -338,6 +339,27 @@ exports[`integration:comments > should parse shell comments 1`] = `
     },
   ],
   [
+    "exit",
+    {
+      "end": {
+        "_bufferIndex": 1,
+        "_index": 6,
+        "column": 2,
+        "line": 5,
+        "offset": 20,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 6,
+        "column": 1,
+        "line": 5,
+        "offset": 19,
+      },
+      "type": "commentOpener",
+      "value": "#",
+    },
+  ],
+  [
     "enter",
     {
       "end": {
@@ -377,26 +399,6 @@ exports[`integration:comments > should parse shell comments 1`] = `
       },
       "type": "commentPadding",
       "value": " ",
-    },
-  ],
-  [
-    "exit",
-    {
-      "end": {
-        "_bufferIndex": 2,
-        "_index": 6,
-        "column": 3,
-        "line": 5,
-        "offset": 21,
-      },
-      "start": {
-        "_bufferIndex": 0,
-        "_index": 6,
-        "column": 1,
-        "line": 5,
-        "offset": 19,
-      },
-      "type": "commentLinePrefix",
     },
   ],
   [
