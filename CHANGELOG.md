@@ -1,3 +1,43 @@
+## [1.0.0-alpha.14](https://github.com/flex-development/docmark-extension-shell/compare/1.0.0-alpha.13...1.0.0-alpha.14) (2026-10-19)
+
+### ⚠ BREAKING CHANGES
+
+- **deps:** bump the docmark group with 5 updates
+
+### :package: Build
+
+- [[`09d03d6`](https://github.com/flex-development/docmark-extension-shell/commit/09d03d63f235430b1012e72d6167a27af35910ae)] **deps-dev:** Bump cspell from 10.3.3 to 10.3.4 ([#59](https://github.com/flex-development/docmark-extension-shell/issues/59))
+- [[`8b345f6`](https://github.com/flex-development/docmark-extension-shell/commit/8b345f627152333fa788244d0710f4fc559cc3be)] **deps-dev:** Bump cspell from 10.3.4 to 10.3.5 ([#64](https://github.com/flex-development/docmark-extension-shell/issues/64))
+- [[`977ff9a`](https://github.com/flex-development/docmark-extension-shell/commit/977ff9a3a14be06d417e8bece5f490a6e8e36347)] **deps-dev:** Bump cspell from 10.3.5 to 10.3.6 ([#66](https://github.com/flex-development/docmark-extension-shell/issues/66))
+- [[`db7c3fd`](https://github.com/flex-development/docmark-extension-shell/commit/db7c3fd42f70c0103798fa0d32d1a794245a2461)] **deps-dev:** Bump rollup from 4.63.3 to 4.63.4 ([#53](https://github.com/flex-development/docmark-extension-shell/issues/53))
+- [[`47fcdf4`](https://github.com/flex-development/docmark-extension-shell/commit/47fcdf4ff4292001ee9986751d7a34572c3c8b48)] **deps-dev:** Bump rollup from 4.63.4 to 4.63.5 ([#57](https://github.com/flex-development/docmark-extension-shell/issues/57))
+- [[`4cff629`](https://github.com/flex-development/docmark-extension-shell/commit/4cff629029a049666212de1f42b77c3289735026)] **deps-dev:** Bump sh-syntax from 0.6.0 to 0.7.0 ([#58](https://github.com/flex-development/docmark-extension-shell/issues/58))
+- [[`c8aad1f`](https://github.com/flex-development/docmark-extension-shell/commit/c8aad1fc5b5145f21f679c63c516b2a3e3e03176)] **deps-dev:** Bump the commitlint group with 2 updates ([#52](https://github.com/flex-development/docmark-extension-shell/issues/52))
+- [[`345eb47`](https://github.com/flex-development/docmark-extension-shell/commit/345eb4798a55d9a126afac15f082408ea768684b)] **deps-dev:** Bump the vitest group across 1 directory with 3 updates ([#56](https://github.com/flex-development/docmark-extension-shell/issues/56))
+- [[`45ef3d6`](https://github.com/flex-development/docmark-extension-shell/commit/45ef3d6c6dfb8b2cdc59b30f7225e61ef5480309)] **deps-dev:** Bump the vitest group across 1 directory with 3 updates ([#68](https://github.com/flex-development/docmark-extension-shell/issues/68))
+- [[`e3dc783`](https://github.com/flex-development/docmark-extension-shell/commit/e3dc783790ae74446fb9119d7031161f5e5a872e)] **deps-dev:** Bump tsx from 4.23.13 to 4.23.15 ([#55](https://github.com/flex-development/docmark-extension-shell/issues/55))
+- [[`0b200f5`](https://github.com/flex-development/docmark-extension-shell/commit/0b200f5fe4a6d546bf5fa7fb5646b9c61f5b4110)] **deps-dev:** Bump vite from 8.3.0 to 8.3.1 ([#63](https://github.com/flex-development/docmark-extension-shell/issues/63))
+- [[`8bfe1bf`](https://github.com/flex-development/docmark-extension-shell/commit/8bfe1bf00d622e832248686889aef2d76551c470)] **deps-dev:** Bump vite from 8.3.1 to 8.3.4 ([#69](https://github.com/flex-development/docmark-extension-shell/issues/69))
+- [[`afbc5b5`](https://github.com/flex-development/docmark-extension-shell/commit/afbc5b575b13d0bf69145bf2f4e3f317f92e3ec7)] **deps:** Bump brace-expansion from 1.1.18 to 1.1.21 ([#65](https://github.com/flex-development/docmark-extension-shell/issues/65))
+- [[`b2cf6d0`](https://github.com/flex-development/docmark-extension-shell/commit/b2cf6d0ba7ab01185bcddcfed65e611661635b9e)] **deps:** Bump fast-uri from 3.1.6 to 3.1.8 ([#60](https://github.com/flex-development/docmark-extension-shell/issues/60))
+- [[`97d9f2d`](https://github.com/flex-development/docmark-extension-shell/commit/97d9f2d7f66105b345df51b27ad3b4ce32603b78)] **deps:** Bump smol-toml from 1.8.0 to 1.9.1 ([#73](https://github.com/flex-development/docmark-extension-shell/issues/73))
+- [[`f05b72d`](https://github.com/flex-development/docmark-extension-shell/commit/f05b72d42ac9b72414adf4953881c22134552939)] **deps:** Bump source-map-js from 1.2.1 to 1.2.2 ([#72](https://github.com/flex-development/docmark-extension-shell/issues/72))
+- [[`69fdf84`](https://github.com/flex-development/docmark-extension-shell/commit/69fdf84929657f98e9fb89de6905d087856a907d)] **deps:** bump the docmark group with 2 updates
+- [[`0bb8e4b`](https://github.com/flex-development/docmark-extension-shell/commit/0bb8e4b88533496f90f04c17fdf80a14fcf65581)] **deps:** Bump undici from 6.28.0 to 6.29.0 ([#61](https://github.com/flex-development/docmark-extension-shell/issues/61))
+- [[`dfadad7`](https://github.com/flex-development/docmark-extension-shell/commit/dfadad7a98440e423479b811d7e651ff6a6d85bd)] **deps:** bump the docmark group with 5 updates
+
+### :robot: Continuous Integration
+
+- [[`00f0094`](https://github.com/flex-development/docmark-extension-shell/commit/00f0094bf9a8e721295d9505ad3ef5a36c1d2a47)] **deps:** Bump actions/create-github-app-token from 3.2.0 to 3.3.0 ([#74](https://github.com/flex-development/docmark-extension-shell/issues/74))
+- [[`1147cd9`](https://github.com/flex-development/docmark-extension-shell/commit/1147cd9c01ead6f2b296ad47d9738616e163e692)] **deps:** Bump actions/setup-node from 7.0.0 to 7.1.0 ([#71](https://github.com/flex-development/docmark-extension-shell/issues/71))
+- [[`9c5f7ad`](https://github.com/flex-development/docmark-extension-shell/commit/9c5f7ade9cdbcaa2edb1c12b935ba081d12c3c57)] **deps:** Bump actions/upload-artifact from 7.0.1 to 7.0.2 ([#70](https://github.com/flex-development/docmark-extension-shell/issues/70))
+- [[`4f63d43`](https://github.com/flex-development/docmark-extension-shell/commit/4f63d43d889b714a4e02412c802222ea31a7f209)] **deps:** Bump codecov/codecov-action from 7.1.0 to 7.1.1 ([#48](https://github.com/flex-development/docmark-extension-shell/issues/48))
+- [[`a1a71fc`](https://github.com/flex-development/docmark-extension-shell/commit/a1a71fc20ec1e23d68fece5a0641fb763e9c654b)] **deps:** Bump streetsidesoftware/cspell-action from 9.1.0 to 9.2.0 ([#75](https://github.com/flex-development/docmark-extension-shell/issues/75))
+
+### :pencil: Documentation
+
+- [[`55216f3`](https://github.com/flex-development/docmark-extension-shell/commit/55216f3dfa253f021f5573a0560a9b03ed83a058)] fix link to q&a discussion category
+
 ## [1.0.0-alpha.13](https://github.com/flex-development/docmark-extension-shell/compare/1.0.0-alpha.12...1.0.0-alpha.13) (2026-09-22)
 
 ### :package: Build
@@ -144,6 +184,7 @@
 ### :mechanical_arm: Refactors
 
 - [[`a1c0904`](https://github.com/flex-development/docmark-extension-shell/commit/a1c0904b86d3147deac4cca841d0205c3edb30f9)] rename project
+
 
 
 
