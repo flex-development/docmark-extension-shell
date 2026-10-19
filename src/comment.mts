@@ -10,7 +10,7 @@ import type { ContinuableConstruct } from '@flex-development/docmark-util-types'
 /**
  * The shell comment construct.
  *
- * This construct is expected to run at the `source` content level.
+ * This construct is expected to run at the `comments` content level.
  *
  * @see {@linkcode ContinuableConstruct}
  *

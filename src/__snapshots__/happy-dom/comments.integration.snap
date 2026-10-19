@@ -259,6 +259,144 @@ exports[`integration:comments > should parse shell comments 1`] = `
   [
     "enter",
     {
+      "contentType": "language",
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 3,
+        "column": 1,
+        "line": 3,
+        "offset": 11,
+      },
+      "start": {
+        "_bufferIndex": -1,
+        "_index": 2,
+        "column": 1,
+        "line": 2,
+        "offset": 10,
+      },
+      "type": "chunkLanguage",
+      "value": "
+",
+    },
+  ],
+  [
+    "exit",
+    {
+      "contentType": "language",
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 3,
+        "column": 1,
+        "line": 3,
+        "offset": 11,
+      },
+      "start": {
+        "_bufferIndex": -1,
+        "_index": 2,
+        "column": 1,
+        "line": 2,
+        "offset": 10,
+      },
+      "type": "chunkLanguage",
+      "value": "
+",
+    },
+  ],
+  [
+    "enter",
+    {
+      "contentType": "language",
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 5,
+        "column": 1,
+        "line": 4,
+        "offset": 18,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 3,
+        "column": 1,
+        "line": 3,
+        "offset": 11,
+      },
+      "type": "chunkLanguage",
+      "value": "set -e
+",
+    },
+  ],
+  [
+    "exit",
+    {
+      "contentType": "language",
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 5,
+        "column": 1,
+        "line": 4,
+        "offset": 18,
+      },
+      "start": {
+        "_bufferIndex": 0,
+        "_index": 3,
+        "column": 1,
+        "line": 3,
+        "offset": 11,
+      },
+      "type": "chunkLanguage",
+      "value": "set -e
+",
+    },
+  ],
+  [
+    "enter",
+    {
+      "contentType": "language",
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 6,
+        "column": 1,
+        "line": 5,
+        "offset": 19,
+      },
+      "start": {
+        "_bufferIndex": -1,
+        "_index": 5,
+        "column": 1,
+        "line": 4,
+        "offset": 18,
+      },
+      "type": "chunkLanguage",
+      "value": "
+",
+    },
+  ],
+  [
+    "exit",
+    {
+      "contentType": "language",
+      "end": {
+        "_bufferIndex": -1,
+        "_index": 6,
+        "column": 1,
+        "line": 5,
+        "offset": 19,
+      },
+      "start": {
+        "_bufferIndex": -1,
+        "_index": 5,
+        "column": 1,
+        "line": 4,
+        "offset": 18,
+      },
+      "type": "chunkLanguage",
+      "value": "
+",
+    },
+  ],
+  [
+    "enter",
+    {
       "end": {
         "_bufferIndex": -1,
         "_index": 16,
@@ -406,7 +544,6 @@ exports[`integration:comments > should parse shell comments 1`] = `
   [
     "enter",
     {
-      "_container": true,
       "_region": true,
       "end": {
         "_bufferIndex": -1,
@@ -423,6 +560,7 @@ exports[`integration:comments > should parse shell comments 1`] = `
         "offset": 21,
       },
       "type": "summary",
+      "value": "Local Release Workflow",
     },
   ],
   [
@@ -1588,7 +1726,6 @@ exports[`integration:comments > should parse shell comments 1`] = `
   [
     "exit",
     {
-      "_container": true,
       "_region": true,
       "end": {
         "_bufferIndex": -1,
@@ -1605,6 +1742,7 @@ exports[`integration:comments > should parse shell comments 1`] = `
         "offset": 21,
       },
       "type": "summary",
+      "value": "Local Release Workflow",
     },
   ],
   [

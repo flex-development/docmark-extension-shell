@@ -16,7 +16,7 @@ import comment from './comment.mts'
  * @const {NormalizedExtension} comments
  */
 const comments: NormalizedExtension = {
-  [constants.contentTypeSource]: {
+  [constants.contentTypeComments]: {
     [codes.numberSign]: [hashbang, comment]
   }
 }

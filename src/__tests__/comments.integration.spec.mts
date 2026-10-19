@@ -27,7 +27,7 @@ describe('integration:comments', () => {
     const slice: Chunk[] = preprocess()(file, undefined, true)
 
     // Act
-    const result = postprocess(parse(options).source().write(slice))
+    const result = postprocess(parse(options).comments().write(slice))
 
     // Expect
     expect(snapshot(result)).toMatchSnapshot()
